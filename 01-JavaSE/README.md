@@ -49,7 +49,7 @@ Los tipos de datos primitvos representan valores, son tipos de datos escalares q
 * booleanos
 
 
-|         | Descripción                   | Tamaño | byte | Calse equivalente | Valor por defecto |
+|         | Descripción                   | Tamaño | byte | Clase equivalente | Valor por defecto |
 | --------- | -------------------------------- | --------- | ------ | ------------------- | ------------------- |
 | boolean | Valor lógico                  | 1 bit   |      | Boolean           | false             |
 | char    | Caracter                       | 16 bits | 2    | Character         | u0000             |
