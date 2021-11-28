@@ -146,3 +146,40 @@ Sobre las cadenas se define la operación de concatenar con el operador de suma.
 * `boolean startsWith(DString prefijo)`: dice si la cadena comienza con el prefijo indicado.
 * `boolean endsWith(DString sufijo)`: dice si la cadena termina con el sufijo indicado.
 * `DString[] split(DString patron)`: divide la cadena en varias subcadenas utilizando el patrón indicado como separador.
+
+## OPERADORES
+
+Java proporciona muchos tipos de operadores que se pueden usar según la necesidad. Se clasifican según la funcionalidad que brindan.
+
+Sirven para realizar cálculos matemáticos, comparar valores, para unir identificadores y literales, para formar expresiones lógicas, toma de decisión, etc.
+
+Se clasifican en:
+
+* Aritméticos
+* Relacionales
+* Lógicos
+* Asignación
+
+Pero adicional tenemos operadores:
+
+* Unarios
+* Incrementales
+* Ternarios
+* Combinados
+* De Bits
+* De Instancia
+
+### ARITMÉTICOS
+
+Se utiliza para realizar operaciones aritméticas simples en tipos de datos primitivos.
+
+| Descripción       | Símbolo     | Expresión de ejemplo | Resultado  |
+|-------------------|-------------|----------------------|------------|
+| Multiplicación    | *           | 2 * 7                | 14         |
+| División          | /           | 6 / 3                | 2          |
+| Modulo o Resto    | %           | 5 % 2                | 1          |
+| Suma              | +           | 5 + 3                | 8          |
+| Resta             | -           | 5 - 3                | 2          |
+| Incremento        | ++          | ++2                  | 3          |
+| Decremento        | --          | --2                  | 1          |
+| Menos Unario      | -           | -(4 + 2)             | -6         |
