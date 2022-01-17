@@ -183,3 +183,13 @@ Se utiliza para realizar operaciones aritméticas simples en tipos de datos prim
 | Incremento        | ++          | ++2                  | 3          |
 | Decremento        | --          | --2                  | 1          |
 | Menos Unario      | -           | -(4 + 2)             | -6         |
+
+### LÓGICOS
+
+Sirven para comparar valores y retornan booleanos
+
+* && (AND): Evalua que dos expresiones sean verdaderas.
+* || (OR): Evalua que al menos una expresión sea verdadera.
+* ! (NOT): Niega la expresión (De true a false y de false a true).
+
+El operador && tiene mayor precedencia sobre el operador ||.
