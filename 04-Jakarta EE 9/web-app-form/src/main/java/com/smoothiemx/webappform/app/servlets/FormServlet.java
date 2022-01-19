@@ -12,7 +12,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-@WebServlet("/registro")
+//@WebServlet("/registro")
 public class FormServlet extends HttpServlet {
 
     @Override
